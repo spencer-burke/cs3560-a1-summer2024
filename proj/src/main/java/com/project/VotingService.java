@@ -1,30 +1,6 @@
 package com.project;
 import java.util.List;
 
-/*
- * Creates a question
- */
-/*
- * Question:
- * - list of answers
- * - list of students
- * - prompt to get results
- */
-/*
- * Student:
- * - really just an id
- */
-/*
- * VotingService:
- * - prompts for question
- * - configures question
- * - calls the question prompt
- * - prompts for a second question
- */
-/*
- * SimulationDriver:
- * - Calls VotingService
- */
 public class VotingService {
     private AQuestion question;
 
